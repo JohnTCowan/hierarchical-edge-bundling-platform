@@ -1,0 +1,1180 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Person",
+      "children": [
+        {
+          "id": "root.Person.Abhra",
+          "name": "Abhra",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Trakstar Hire",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Migration",
+              "type": "Contributes To"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Akhilesh",
+          "name": "Akhilesh",
+          "imports_with_type": [
+            {
+              "target": "root.Project.DataHub Ruby Upgrade",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.INSZoom",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.PlatoBI",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Ansal",
+          "name": "Ansal",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Bulk Actions",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.HQ",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Anush",
+          "name": "Anush",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Storage",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.AI Team",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Brian K",
+          "name": "Brian K",
+          "imports_with_type": [
+            {
+              "target": "root.Project.DataHub - HQ",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataHub Pentest",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Prevalent",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.PlatoBI",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Brian W",
+          "name": "Brian W",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Alyne ARIES",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Prevalent",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.AI Team",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Cara",
+          "name": "Cara",
+          "imports_with_type": [
+            {
+              "target": "root.Project.AssureHire",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.AssureHire",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Chat Context",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataHub - HQ",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.FlexAPI",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Home Page",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Mineral ARIES",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Mineral ARIES",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Preparis",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Preparis",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Report API",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Storage",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.TrackerI9 Integration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.TrackerI9 Integration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Username",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.AI Team",
+              "type": "Member Of"
+            },
+            {
+              "target": "root.Team.HQ",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Jannette",
+          "name": "Jannette",
+          "imports_with_type": [
+            {
+              "target": "root.Project.DataHub - HQ",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataHub Pentest",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.PlatoBI",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Kenia",
+          "name": "Kenia",
+          "imports_with_type": [
+            {
+              "target": "root.Project.DataHub - HQ",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Home Page",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Report API",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Username",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.HQ",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Kristen",
+          "name": "Kristen",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Trakstar Benchmarking",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Migration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.PlatoBI",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Leo",
+          "name": "Leo",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Chat Context",
+              "type": "Contributes To"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Manju",
+          "name": "Manju",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Alyne ARIES",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataShareSE",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Snow DR",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Benchmarking",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Migration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.PlatoBI",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Mario",
+          "name": "Mario",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Alyne ARIES",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataShareSE",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataHub Ruby Upgrade",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.INSZoom",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Snow DR",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Benchmarking",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Hire",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Migration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.Hosting",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Ricardo",
+          "name": "Ricardo",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Alyne ARIES",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Bulk Migrations",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataShareSE",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataHub Ruby Upgrade",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.INSZoom",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Snow DR",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Benchmarking",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Hire",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Migration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.DevOps",
+              "type": "Member Of"
+            },
+            {
+              "target": "root.Team.HQ",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Ritika",
+          "name": "Ritika",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Alyne ARIES",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataShareSE",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Prevalent",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Snow DR",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Benchmarking",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Migration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.PlatoBI",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Sahil",
+          "name": "Sahil",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Chat Context",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.FlexAPI",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Storage",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.AI Team",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Sourabh",
+          "name": "Sourabh",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Consolidating Accounts",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.HQ",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Vedarth",
+          "name": "Vedarth",
+          "imports_with_type": [
+            {
+              "target": "root.Project.AdvanceLaw",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.AssureHire",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataHub - HQ",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Mineral ARIES",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Preparis",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Syntrio Integration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Talentreef Integration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.TrackerI9 Integration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Team.HQ",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Alex",
+          "name": "Alex",
+          "imports_with_type": [
+            {
+              "target": "root.Team.AI Team",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Anand",
+          "name": "Anand",
+          "imports_with_type": [
+            {
+              "target": "root.Team.AI Team",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Anastasia",
+          "name": "Anastasia",
+          "imports_with_type": [
+            {
+              "target": "root.Team.AI Team",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Balint",
+          "name": "Balint",
+          "imports_with_type": [
+            {
+              "target": "root.Team.AI Team",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Basel",
+          "name": "Basel",
+          "imports_with_type": [
+            {
+              "target": "root.Team.AI Team",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Cesar",
+          "name": "Cesar",
+          "imports_with_type": [
+            {
+              "target": "root.Team.HQ",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Shivam",
+          "name": "Shivam",
+          "imports_with_type": [
+            {
+              "target": "root.Team.AI Team",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Shraddha",
+          "name": "Shraddha",
+          "imports_with_type": [
+            {
+              "target": "root.Team.AI Team",
+              "type": "Member Of"
+            },
+            {
+              "target": "root.Project.Chat Context",
+              "type": "Reviews"
+            },
+            {
+              "target": "root.Project.FlexAPI",
+              "type": "Reviews"
+            },
+            {
+              "target": "root.Project.Storage",
+              "type": "Reviews"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Srajan",
+          "name": "Srajan",
+          "imports_with_type": [
+            {
+              "target": "root.Team.AI Team",
+              "type": "Member Of"
+            }
+          ]
+        },
+        {
+          "id": "root.Person.Swarup",
+          "name": "Swarup",
+          "imports_with_type": [
+            {
+              "target": "root.Team.HQ",
+              "type": "Member Of"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Project",
+      "children": [
+        {
+          "id": "root.Project.Mineral ARIES",
+          "name": "Mineral ARIES",
+          "imports_with_type": [
+            {
+              "target": "root.Team.Mineral",
+              "type": "Depends On"
+            }
+          ]
+        },
+        {
+          "id": "root.Project.Trakstar Hire",
+          "name": "Trakstar Hire",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Trakstar Migration",
+          "name": "Trakstar Migration",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.DataHub Ruby Upgrade",
+          "name": "DataHub Ruby Upgrade",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.INSZoom",
+          "name": "INSZoom",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Bulk Actions",
+          "name": "Bulk Actions",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Storage",
+          "name": "Storage",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.DataHub - HQ",
+          "name": "DataHub - HQ",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.DataHub Pentest",
+          "name": "DataHub Pentest",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Prevalent",
+          "name": "Prevalent",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Alyne ARIES",
+          "name": "Alyne ARIES",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.AssureHire",
+          "name": "AssureHire",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Chat Context",
+          "name": "Chat Context",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.FlexAPI",
+          "name": "FlexAPI",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Home Page",
+          "name": "Home Page",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Preparis",
+          "name": "Preparis",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Report API",
+          "name": "Report API",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.TrackerI9 Integration",
+          "name": "TrackerI9 Integration",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Username",
+          "name": "Username",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Trakstar Benchmarking",
+          "name": "Trakstar Benchmarking",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.DataShareSE",
+          "name": "DataShareSE",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Snow DR",
+          "name": "Snow DR",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Bulk Migrations",
+          "name": "Bulk Migrations",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Consolidating Accounts",
+          "name": "Consolidating Accounts",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.AdvanceLaw",
+          "name": "AdvanceLaw",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Syntrio Integration",
+          "name": "Syntrio Integration",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Talentreef Integration",
+          "name": "Talentreef Integration",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.AdvanceLaw Integration",
+          "name": "AdvanceLaw Integration",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.INSZoom Integration",
+          "name": "INSZoom Integration",
+          "imports_with_type": []
+        },
+        {
+          "id": "root.Project.Prevalent Integration",
+          "name": "Prevalent Integration",
+          "imports_with_type": []
+        }
+      ]
+    },
+    {
+      "name": "Team",
+      "children": [
+        {
+          "id": "root.Team.AI Team",
+          "name": "AI Team",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Chat Context",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.FlexAPI",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Storage",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Alyne ARIES",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.Mineral ARIES",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.Prevalent",
+              "type": "Depends On"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.HQ",
+          "name": "HQ",
+          "imports_with_type": [
+            {
+              "target": "root.Project.AdvanceLaw",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.AssureHire",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Bulk Actions",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Bulk Migrations",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Consolidating Accounts",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataHub - HQ",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Home Page",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Mineral ARIES",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Preparis",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Report API",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Syntrio Integration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Talentreef Integration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.TrackerI9 Integration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Username",
+              "type": "Contributes To"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.PlatoBI",
+          "name": "PlatoBI",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Alyne ARIES",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataShareSE",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.INSZoom",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Prevalent",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Snow DR",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Benchmarking",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Hire",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Migration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Alyne ARIES",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataHub Pentest",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataHub Ruby Upgrade",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.INSZoom",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Alyne ARIES",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataShareSE",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataHub Pentest",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataHub Ruby Upgrade",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.INSZoom",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Prevalent",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Snow DR",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Benchmarking",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Hire",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.Trakstar Migration",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.DataHub - HQ",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.DataHub - HQ",
+              "type": "Depends On"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.UX",
+          "name": "UX",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Chat Context",
+              "type": "Contributes To"
+            },
+            {
+              "target": "root.Project.FlexAPI",
+              "type": "Contributes To"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.AdvanceLaw",
+          "name": "AdvanceLaw",
+          "imports_with_type": [
+            {
+              "target": "root.Project.AdvanceLaw Integration",
+              "type": "Depends On"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.Alyne",
+          "name": "Alyne",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Alyne ARIES",
+              "type": "Depends On"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.AON",
+          "name": "AON",
+          "imports_with_type": [
+            {
+              "target": "root.Project.DataHub Pentest",
+              "type": "Depends On"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.DevOps",
+          "name": "DevOps",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Alyne ARIES",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.DataShareSE",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.INSZoom",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.Snow DR",
+              "type": "Depends On"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.Hosting",
+          "name": "Hosting",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Alyne ARIES",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.DataShareSE",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.DataHub Ruby Upgrade",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.INSZoom",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.Snow DR",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.Trakstar Benchmarking",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.Trakstar Hire",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.Trakstar Migration",
+              "type": "Depends On"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.INSZoom",
+          "name": "INSZoom",
+          "imports_with_type": [
+            {
+              "target": "root.Project.INSZoom Integration",
+              "type": "Depends On"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.PhData",
+          "name": "PhData",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Trakstar Migration",
+              "type": "Depends On"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.Prevalent",
+          "name": "Prevalent",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Prevalent Integration",
+              "type": "Depends On"
+            },
+            {
+              "target": "root.Project.Chat Context",
+              "type": "Reviews"
+            },
+            {
+              "target": "root.Project.FlexAPI",
+              "type": "Reviews"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.Syntrio",
+          "name": "Syntrio",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Syntrio Integration",
+              "type": "Depends On"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.Talentreef",
+          "name": "Talentreef",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Talentreef Integration",
+              "type": "Depends On"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.Security",
+          "name": "Security",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Alyne ARIES",
+              "type": "Reviews"
+            },
+            {
+              "target": "root.Project.DataShareSE",
+              "type": "Reviews"
+            },
+            {
+              "target": "root.Project.DataHub Pentest",
+              "type": "Reviews"
+            },
+            {
+              "target": "root.Project.INSZoom",
+              "type": "Reviews"
+            },
+            {
+              "target": "root.Project.Snow DR",
+              "type": "Reviews"
+            },
+            {
+              "target": "root.Project.Storage",
+              "type": "Reviews"
+            },
+            {
+              "target": "root.Project.Trakstar Benchmarking",
+              "type": "Reviews"
+            },
+            {
+              "target": "root.Project.Trakstar Hire",
+              "type": "Reviews"
+            },
+            {
+              "target": "root.Project.Trakstar Migration",
+              "type": "Reviews"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.TeamConnect",
+          "name": "TeamConnect",
+          "imports_with_type": [
+            {
+              "target": "root.Project.Storage",
+              "type": "Reviews"
+            }
+          ]
+        },
+        {
+          "id": "root.Team.Mineral",
+          "name": "Mineral",
+          "imports_with_type": []
+        }
+      ]
+    }
+  ]
+}
